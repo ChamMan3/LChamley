@@ -1,3 +1,5 @@
+from math import *
+
 msg = "hello world"
 print(msg)
 
