@@ -4,3 +4,9 @@ body {
     text-align: center;
 }
 
+img {
+    margin: auto;
+    display: block;
+    max-width: 30%;
+    max-height: auto;
+} 
