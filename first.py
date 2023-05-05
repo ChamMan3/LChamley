@@ -31,3 +31,15 @@ def cube(num):
 result= cube(4)
 
 print(result)
+is_tall = False 
+is_male = False
+if is_male and is_tall:
+    print ("you're a lanky dude, bro")
+elif is_male and not(is_tall):
+    print("you are a short king bro")
+elif not(is_male) and is_tall:
+    print ("you're a tall gal")
+else:
+    print("you aint a dude, fella and you're short ratio")
+
+# the "or" and the "and" keyword can be used in if statements (pretty self explanatory)
