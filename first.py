@@ -18,3 +18,5 @@ result= float(num1) + float(num2)
 
 print(result)
 
+#use bang operator/python equivalent and make a little lightmode/darkmode button
+
