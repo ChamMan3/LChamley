@@ -20,3 +20,7 @@ print(result)
 
 #use bang operator/python equivalent and make a little lightmode/darkmode button
 
+def say_hi():
+    print("Hello User")
+
+say_hi()
