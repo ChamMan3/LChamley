@@ -7,6 +7,6 @@ As a lifelong gamer and a science enthusiast I've always been keen on learning m
 
 Since graduating my pursuit of knowledge hasn't stopped! I learned AWS and used it to deploy my first Flatiron School project (Lukon Drink Finder), I have been updating previous projects to maintain function and to add new features, and I have joined a ruby on rails startup group.
 
-Languages: JavaScript, HTML5, CSS3, Tailwind, React, Ruby on Rails, SQL (PostgreSQL, Sqlite3, MySQL)
+Languages: JavaScript, HTML5, CSS3, Tailwind, React, Ruby on Rails, SQL, Python(PostgreSQL, Sqlite3, MySQL)
 
 Tools: AWS, Heroku, Postman, Whimsical
