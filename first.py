@@ -14,27 +14,27 @@ print("Hello "+name+"! I hear it's tough being a "+occupation+" these days")
 
 #use bang operator/python equivalent and make a little lightmode/darkmode button
 
-def say_hi(name):
-    print("Hello "+name)
+# def say_hi(name):
+#     print("Hello "+name)
 
-say_hi("mike")
+# say_hi("mike")
 
-def cube(num):
-    return num*num*num
+# def cube(num):
+#     return num*num*num
 
-result= cube(4)
+# result= cube(4)
 
-print(result)
-is_tall = False 
-is_male = False
-if is_male and is_tall:
-    print ("you're a lanky dude, bro")
-elif is_male and not(is_tall):
-    print("you are a short king bro")
-elif not(is_male) and is_tall:
-    print ("you're a tall gal")
-else:
-    print("you aint a dude, fella and you're short ratio")
+# print(result)
+# is_tall = False 
+# is_male = False
+# if is_male and is_tall:
+#     print ("you're a lanky dude, bro")
+# elif is_male and not(is_tall):
+#     print("you are a short king bro")
+# elif not(is_male) and is_tall:
+#     print ("you're a tall gal")
+# else:
+#     print("you aint a dude, fella and you're short ratio")
 
 # the "or" and the "and" keyword can be used in if statements (pretty self explanatory)
 
